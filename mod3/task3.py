@@ -1,0 +1,1 @@
+print('\n'.join(reversed(input("Введите домен. Пример - www.domain.com: ").split('.'))))
